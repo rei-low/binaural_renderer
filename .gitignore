@@ -1,0 +1,6 @@
+data/
+renders/
+.ipynb_checkpoints/
+.DS_Store
+*.sofa
+*.wav
