@@ -1,4 +1,4 @@
-# binaural-render
+# binaural_render
 
 Places a mono recording at any direction around a listener by convolving it with measured head-related impulse responses (HRIRs), and writes a stereo WAV for headphones. It's the reference pipeline for my research on sound externalization and HRTF individualization.
 
